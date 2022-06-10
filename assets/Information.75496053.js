@@ -1,0 +1,1 @@
+import{_ as n,o as a,c as e,a as o}from"./index.f615a7d3.js";const r={setup:()=>({})},s=[o("div",{class:"card"},[o("h3",null,"Blockchain Frontend")],-1)];var i=n(r,[["render",function(n,o,r,i,t,c){return a(),e("div",null,s)}],["__file","D:/2022/6.profile/jeffkim22/src/views/main/components/Information.vue"]]);export{i as default};
