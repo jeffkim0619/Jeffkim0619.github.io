@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as f}from"./index.ff37e45c.js";var o=e({},[["render",function(e,o,t,i,s,a){return r(),f("div",null,"test")}],["__file","D:/2022/6.profile/jeffkim22/src/views/mypro/project/Project1.vue"]]);export{o as default};
