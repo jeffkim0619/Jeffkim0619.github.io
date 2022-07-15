@@ -1,1 +1,0 @@
-import{_ as e,j as s,o as a,c as r}from"./index.a657ca99.js";var i=e({setup(){s();return{}}},[["render",function(e,s,i,t,n,u){return a(),r("div",null,"jasdlfjaklsdfj")}],["__file","D:/2022/1.위시켓/0708더스포츠/project/vitejs-vite-slzpas/src/views/main/survey/_id.vue"]]);export{i as default};
