@@ -1,0 +1,1 @@
+import{_ as e,o as s,a as t}from"./index.68891016.js";const o=e({},[["render",function(e,o,r,f,n,a){return s(),t("div",null," test ")}],["__file","/Users/jeff/Documents/jeff/test/sample/221017/dev_1/src/views/home/select/choise/Docter.vue"]]);export{o as default};
