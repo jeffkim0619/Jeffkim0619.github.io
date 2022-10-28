@@ -1,1 +1,0 @@
-import{q as s,i as t,c as i}from"./index.c4908571.js";const e=()=>{const e=s();return{choiseList:t((()=>e.state.choise.choiseList)),setChoiseList:s=>{e.dispatch(i.store.choise.SETCHOISELIST,s)}}};export{e as c};
